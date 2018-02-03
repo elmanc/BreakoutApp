@@ -1,1 +1,2 @@
-# BreakoutApp
+# breakout-client
+Breakout React client
